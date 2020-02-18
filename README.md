@@ -4,16 +4,13 @@ MovieWebMap is a Python 3 project for creating an html (with JS usage) map of th
 
 ## Installation
 
-Run
-```python
-pip install MovieWebMap
-```
+Run pip install
 
 ## Usage
 
 ```python
-import MovieWebMap
-MovieWebMap.mymodule.main()
+import main
+main.main()
 ```
 
 ## HTML description
